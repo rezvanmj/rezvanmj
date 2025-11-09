@@ -12,14 +12,14 @@
 - 🧠 Skilled in **Flutter** since 2020,
 - 🎨 I enjoy designing and building beautiful, functional apps
 - ⚡ I also explore **Golang**, **Node js**, **React Native**, and **Angular** for fun
-- 📫 You can reach me via **[Telegram](https://t.me/rezonej)** or **Email**: `rezva.mjj@gmail.com`
+- 📫 You can reach me via **[Telegram](https://t.me/rezonej)** or **Email**: `rezvan.mjj@gmail.com`
 
 ---
 
 ## 🌐 Socials:
 <p align="left">
 
-<a href="mailto:rezva.mjj@gmail.com" target="blank">
+<a href="mailto:rezvan.mjj@gmail.com" target="blank">
   <img align="center" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" alt="email" height="30" width="40" /></a>
 
 <a href="https://t.me/rezonej" target="blank">
