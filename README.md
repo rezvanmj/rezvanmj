@@ -8,8 +8,8 @@
 
 
 - 👋 Hi, I’m **@Rezvanmj**
-- 💻 I’m a **Computer Engineer** and a **Flutter Developer** with over **4 years of experience**
-- 🧠 Skilled in **Java and Swift**, **Socket.io**, **Firebase**, and **AWS**
+- 💻 I’m a **Computer Engineer** and a **Programmer** with over **7 years of experience**
+- 🧠 Skilled in **Flutter** since 2020,
 - 🎨 I enjoy designing and building beautiful, functional apps
 - ⚡ I also explore **Golang**, **Node js**, **React Native**, and **Angular** for fun
 - 📫 You can reach me via **[Telegram](https://t.me/rezonej)** or **Email**: `rezva.mjj@gmail.com`
